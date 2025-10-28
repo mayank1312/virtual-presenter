@@ -66,6 +66,16 @@ Place your right hand inside the box shown and then use following Gestures for t
 
 ## Screenshots 
 
+<img width="1470" height="956" alt="Screenshot 2025-10-29 at 1 11 14 AM" src="https://github.com/user-attachments/assets/a01181e6-62e9-4061-84c6-64dbe7c2a58c" />
+<img width="1470" height="956" alt="Screenshot 2025-10-29 at 1 11 16 AM" src="https://github.com/user-attachments/assets/df329fda-8c3b-4e85-9693-9b5c50061158" />
+<img width="1470" height="956" alt="Screenshot 2025-10-29 at 1 11 21 AM" src="https://github.com/user-attachments/assets/c8c46e0b-7642-40f7-bb8b-2fba611730e9" />
+<img width="1470" height="956" alt="Screenshot 2025-10-29 at 1 11 48 AM" src="https://github.com/user-attachments/assets/d30e6e70-3d12-4f67-b49f-5879e8393cd6" />
+<img width="1470" height="956" alt="Screenshot 2025-10-29 at 1 11 50 AM" src="https://github.com/user-attachments/assets/59114a9f-c98a-4788-af3f-4e047099b9d0" />
+
+
+
+
+
 
 ##
 Thank you for checking out this project. Feel free to fork the repository, suggest improvements, or submit pull requests!
